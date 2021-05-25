@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="32px" viewBox="0 0 40 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 666</title>
+    <defs>
+        <path d="M36.484,0 C38.42,0 40,1.657 40,3.692 L40,28.308 C40,30.336 38.428,32 36.484,32 L3.516,32 C1.584,32 0,30.348 0,28.308 L0,3.692 C0,1.664 1.572,0 3.516,0 L36.484,0 Z M24.704,17.676 L20.747,21.797 C20.289,22.274 19.549,22.273 19.093,21.793 L15.234,17.741 L4.001,29.538 L35.999,29.538 L24.704,17.676 Z M37.656,4.19 L26.369,15.943 L37.656,27.798 L37.656,4.19 Z M2.344,4.202 L2.344,27.798 L13.577,16 L2.344,4.202 Z M35.988,2.462 L4.001,2.462 L19.925,19.186 L35.988,2.462 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sales--blue" transform="translate(-1100.000000, -1988.000000)">
+            <g id="Group-666" transform="translate(1100.000000, 1988.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-665"></g>
+                <polygon id="Fill-664" fill="#565AFF" mask="url(#mask-2)" points="-10 42 50 42 50 -10 -10 -10"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
